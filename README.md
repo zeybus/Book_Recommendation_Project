@@ -1,5 +1,5 @@
 # Book_Recommendation_Project
-The project simply provides readers to find their next book to read. It asks users to enter how many genres they want and the genres, and gives top 10 read books with genres provided by reader.
+The project simply provides readers to find their next book to read. It asks users to enter how many genres they want and the genres, and gives top 10 rated books with genres provided by reader.
 ## Dataset
 The project is based on a dataset scraped via the Goodreads API, created in 2019. The one that I have used updated in 2022 with genre information.
 The dataset itself is a bit out-dated, still pretty useful to explore the world of books.
